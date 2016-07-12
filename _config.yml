@@ -1,0 +1,28 @@
+name: Accelerera
+favicon: null
+layout_spectrum: 0.34904850902967155
+typography_spectrum: 0.5278278710320592
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6324426191858947
+  lightness: 0.8766789527144283
+  saturation: 0.6867478892672807
+  rhythmicContrast: 0.11039498774334788
+purpose: []

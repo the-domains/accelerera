@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Accelerera]]></title>
-        <description><![CDATA[Accelerera]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Home of Accelerera Ltd, the UK's leading electric car race engineering team ]]></title>
+        <description><![CDATA[The Home of Accelerera Ltd, the UK's leading electric car race engineering team ]]></description>
+        <link>https://thegrid.ai/accelerera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 10:59:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2016 11:08:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/accelerera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Formula E Season 2 Finale]]></title>
             <description><![CDATA[<p>The first weekend in July saw a successful end to Mahindra Racing's campaign in Formula E's second season. Bruno Senna achieved the teams highest ever finish with second in race one, with both Bruno and Nick Heidfeld scoring good points in race two with 5th and 6th place finishes.</p>]]></description>
-            <link>undefinedformula-e-season-2-finale/index.html</link>
+            <link>https://thegrid.ai/accelerera/formula-e-season-2-finale/index.html</link>
             <guid isPermaLink="false">c7fcd4f7-0c6e-4966-9074-1550e2160402</guid>
-            <pubDate>Tue, 12 Jul 2016 10:59:17 GMT</pubDate>
+            <pubDate>Tue, 12 Jul 2016 11:07:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
